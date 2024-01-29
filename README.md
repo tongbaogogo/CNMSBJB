@@ -1,1 +1,1 @@
-vless://f4fa803e-873d-4acd-bb1c-7ffdf9e232a8@202.139.228.83:41149?security=reality&encryption=none&pbk=aSFLcUOvBV5gBem09vYsAF7V23F8nfikiixmtu8pAhg&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=81068ea6#sharon%7C%E9%A6%99%E6%B8%AFCMI
+
